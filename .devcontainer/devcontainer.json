@@ -20,7 +20,10 @@
         },
         "ghcr.io/devcontainers/features/azure-cli:1": {
             "version": "latest"
-        }
+        },
+		"ghcr.io/devcontainers/features/terraform:1": {
+			
+		}
     },
 	// Configure tool-specific properties.
 	"customizations": {
@@ -32,7 +35,8 @@
 				"ms-vscode.azure-account",
 				"ms-azuretools.vscode-azurefunctions",
 				"ms-azuretools.vscode-azureresourcegroups",
-				"ms-dotnettools.blazorwasm-companion"
+				"ms-dotnettools.blazorwasm-companion",
+				"hashicorp.terraform"
 			]
 		}
 	},
