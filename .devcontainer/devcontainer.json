@@ -31,7 +31,8 @@
 				"ms-dotnettools.csharp",
 				"ms-vscode.azure-account",
 				"ms-azuretools.vscode-azurefunctions",
-				"ms-azuretools.vscode-azureresourcegroups"
+				"ms-azuretools.vscode-azureresourcegroups",
+				"ms-dotnettools.blazorwasm-companion"
 			]
 		}
 	},
