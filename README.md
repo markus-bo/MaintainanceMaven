@@ -16,6 +16,7 @@ This template contains an example .NET 7 [Blazor WebAssembly](https://docs.micro
     - azure static-web-apps-cli
     - azure functions-core-tools
     - terraform (v latest)
+    - postman
 
 1. In the **Api** folder, copy `local.settings.example.json` to `local.settings.json`
 
