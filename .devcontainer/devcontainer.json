@@ -37,7 +37,8 @@
 				"ms-azuretools.vscode-azureresourcegroups",
 				"ms-dotnettools.blazorwasm-companion",
 				"hashicorp.terraform",
-				"Postman.postman-for-vscode"
+				"Postman.postman-for-vscode",
+				"github.vscode-github-actions"
 			]
 		}
 	},
