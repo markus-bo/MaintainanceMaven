@@ -36,7 +36,8 @@
 				"ms-azuretools.vscode-azurefunctions",
 				"ms-azuretools.vscode-azureresourcegroups",
 				"ms-dotnettools.blazorwasm-companion",
-				"hashicorp.terraform"
+				"hashicorp.terraform",
+				"patcx.vscode-nuget-gallery"
 			]
 		}
 	},
